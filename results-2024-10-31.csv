@@ -1,0 +1,295 @@
+event_id,sport_key,sport_title,commence_time,completed,home_team,away_team,home_score,away_score,last_update
+a2df6ce49133c7ec9805c54c3e792db9,americanfootball_ncaaf,NCAAF,2024-10-29T23:02:00Z,True,Florida International Panthers,New Mexico State Aggies,34.0,13.0,2024-10-31T08:06:05Z
+e9f84cca1df90940966cb6f2605c9139,americanfootball_ncaaf,NCAAF,2024-10-29T23:35:00Z,True,Texas State Bobcats,Louisiana Ragin Cajuns,17.0,23.0,2024-10-31T08:06:05Z
+c3eb0c718a80f318e8863bfaf93ddd31,americanfootball_ncaaf,NCAAF,2024-10-30T00:03:00Z,True,Sam Houston State Bearkats,Louisiana Tech Bulldogs,9.0,3.0,2024-10-31T08:06:05Z
+cab2d273177d7c42eccf0329b1b60b64,americanfootball_ncaaf,NCAAF,2024-10-30T23:03:00Z,True,Liberty Flames,Jacksonville State Gamecocks,21.0,31.0,2024-10-31T08:06:05Z
+bfd599645f7e98fa7e465cbd58b2ae5c,americanfootball_ncaaf,NCAAF,2024-10-30T23:35:00Z,True,Western Kentucky Hilltoppers,Kennesaw State Owls,31.0,14.0,2024-10-31T08:06:05Z
+aef31b37e609902bd20a33aaf9458044,americanfootball_ncaaf,NCAAF,2024-10-31T23:30:00Z,False,Charlotte 49ers,Tulane Green Wave,,,
+3d6bbf6b6a6289f950a2e40e8f16f4be,americanfootball_ncaaf,NCAAF,2024-11-01T23:00:00Z,False,UConn Huskies,Georgia State Panthers,,,
+aa350a5df0fe737ab6451fd05cbf1ed0,americanfootball_ncaaf,NCAAF,2024-11-01T23:30:00Z,False,Florida Atlantic Owls,South Florida Bulls,,,
+f16b1ab144ed0f547c889e3390df2191,americanfootball_ncaaf,NCAAF,2024-11-02T00:00:00Z,False,Boise State Broncos,San Diego State Aztecs,,,
+bbc2ec506b5cd06ff3fe060bfafdeb79,americanfootball_ncaaf,NCAAF,2024-11-02T16:00:00Z,False,Army Black Knights,Air Force Falcons,,,
+507153f2bd10d440fd62b941efcbae88,americanfootball_ncaaf,NCAAF,2024-11-02T16:00:00Z,False,Akron Zips,Buffalo Bulls,,,
+33238f885b5c45df396a4ecba23cec39,americanfootball_ncaaf,NCAAF,2024-11-02T16:00:00Z,False,Arkansas Razorbacks,Ole Miss Rebels,,,
+b311a74d2982edec5dadf8e04b73d92f,americanfootball_ncaaf,NCAAF,2024-11-02T16:00:00Z,False,Miami Hurricanes,Duke Blue Devils,,,
+64968e0103d02321a7c5aed3115fcf76,americanfootball_ncaaf,NCAAF,2024-11-02T16:00:00Z,False,Eastern Michigan Eagles,Toledo Rockets,,,
+dea9100ddfff7ce09e45ec70a127bdc6,americanfootball_ncaaf,NCAAF,2024-11-02T16:00:00Z,False,Illinois Fighting Illini,Minnesota Golden Gophers,,,
+fb87221298e9cc14a67d1008db4a767a,americanfootball_ncaaf,NCAAF,2024-11-02T16:00:00Z,False,UTSA Roadrunners,Memphis Tigers,,,
+2fc8a9cf603ad15a1569473304c80208,americanfootball_ncaaf,NCAAF,2024-11-02T16:00:00Z,False,NC State Wolfpack,Stanford Cardinal,,,
+300bad7238c6be69705cdbac3980c553,americanfootball_ncaaf,NCAAF,2024-11-02T16:00:00Z,False,Purdue Boilermakers,Northwestern Wildcats,,,
+bb29983e844e59860c155bce82aa403e,americanfootball_ncaaf,NCAAF,2024-11-02T16:00:00Z,False,Penn State Nittany Lions,Ohio State Buckeyes,,,
+f66b58e09ec8b2c3cb35b5abca1ed4de,americanfootball_ncaaf,NCAAF,2024-11-02T16:00:00Z,False,Syracuse Orange,Virginia Tech Hokies,,,
+896d6a895c826ba0e3e6aef53b33e2a9,americanfootball_ncaaf,NCAAF,2024-11-02T16:45:00Z,False,Auburn Tigers,Vanderbilt Commodores,,,
+5958db85c490720e52a5e9a12f60d9ac,americanfootball_ncaaf,NCAAF,2024-11-02T18:30:00Z,False,Appalachian State Mountaineers,Old Dominion Monarchs,,,
+d3ed18023d0a8414e55b0a49b432a68d,americanfootball_ncaaf,NCAAF,2024-11-02T18:30:00Z,False,Oklahoma Sooners,Maine Black Bears,,,
+7344e726b6f229bdcd96f16f48599bb5,americanfootball_ncaaf,NCAAF,2024-11-02T18:30:00Z,False,UAB Blazers,Tulsa Golden Hurricane,,,
+0fbc765026192c14d25b8e7f1c5515b9,americanfootball_ncaaf,NCAAF,2024-11-02T19:30:00Z,False,UCF Knights,Arizona Wildcats,,,
+92cd6706e21997567d299f6cf705b0cf,americanfootball_ncaaf,NCAAF,2024-11-02T19:30:00Z,False,Georgia Bulldogs,Florida Gators,,,
+9c918ec54f03eb25d3cb7e60de63ea42,americanfootball_ncaaf,NCAAF,2024-11-02T19:30:00Z,False,Florida State Seminoles,North Carolina Tar Heels,,,
+0be5c676d920310d0adbb472b1f0b27f,americanfootball_ncaaf,NCAAF,2024-11-02T19:30:00Z,False,Houston Cougars,Kansas State Wildcats,,,
+d85259e1c581aae214a54adc8b5658ad,americanfootball_ncaaf,NCAAF,2024-11-02T19:30:00Z,False,Michigan State Spartans,Indiana Hoosiers,,,
+df3c7f545615664ac1e30aca35b4a11f,americanfootball_ncaaf,NCAAF,2024-11-02T19:30:00Z,False,Iowa State Cyclones,Texas Tech Red Raiders,,,
+e508a31060e2e536472005cde1facc54,americanfootball_ncaaf,NCAAF,2024-11-02T19:30:00Z,False,Marshall Thundering Herd,UL Monroe Warhawks,,,
+7553bd444e7fbf9edd3d45812536f459,americanfootball_ncaaf,NCAAF,2024-11-02T19:30:00Z,False,Michigan Wolverines,Oregon Ducks,,,
+1c0723b13ec3bd0ffd1d2efe393038f1,americanfootball_ncaaf,NCAAF,2024-11-02T19:30:00Z,False,UTEP Miners,Middle Tennessee Blue Raiders,,,
+a94bc6c99d77f585071830f1fe7b46e3,americanfootball_ncaaf,NCAAF,2024-11-02T19:30:00Z,False,Nebraska Cornhuskers,UCLA Bruins,,,
+7a544195a8edc9e50a80d1eab2159c26,americanfootball_ncaaf,NCAAF,2024-11-02T20:00:00Z,False,Troy Trojans,Coastal Carolina Chanticleers,,,
+e068befdace07d4ad52c7e17bc145847,americanfootball_ncaaf,NCAAF,2024-11-02T20:00:00Z,False,Rice Owls,Navy Midshipmen,,,
+9fb37cffc5ee5d5182e61dd71e8e68e7,americanfootball_ncaaf,NCAAF,2024-11-02T20:00:00Z,False,New Mexico Lobos,Wyoming Cowboys,,,
+4b1198ded9571463e099640f0c979f7a,americanfootball_ncaaf,NCAAF,2024-11-02T20:15:00Z,False,Mississippi State Bulldogs,UMass Minutemen,,,
+300598c00c9b07fc8c0e3b12265bf467,americanfootball_ncaaf,NCAAF,2024-11-02T23:00:00Z,False,Oklahoma State Cowboys,Arizona State Sun Devils,,,
+7b764cfd3ab3a3fdde58bdd9f0fb3087,americanfootball_ncaaf,NCAAF,2024-11-02T23:00:00Z,False,Fresno State Bulldogs,Hawaii Rainbow Warriors,,,
+3bb669a83ee319837f19dd3a6cb186f2,americanfootball_ncaaf,NCAAF,2024-11-02T23:30:00Z,False,Clemson Tigers,Louisville Cardinals,,,
+93ac06682c9ff6dcddb1f7359fa8baaf,americanfootball_ncaaf,NCAAF,2024-11-02T23:30:00Z,False,South Alabama Jaguars,Georgia Southern Eagles,,,
+3e438efccf12ed627cc52a8071ea73e4,americanfootball_ncaaf,NCAAF,2024-11-02T23:30:00Z,False,Iowa Hawkeyes,Wisconsin Badgers,,,
+39be76fe09acf0f28e13ffec871ff9f6,americanfootball_ncaaf,NCAAF,2024-11-02T23:30:00Z,False,South Carolina Gamecocks,Texas A&M Aggies,,,
+46b0b530760bb788f140b95df52735d8,americanfootball_ncaaf,NCAAF,2024-11-02T23:30:00Z,False,Washington Huskies,USC Trojans,,,
+a02346a306a143c06f4b02b87a533e81,americanfootball_ncaaf,NCAAF,2024-11-02T23:45:00Z,False,Tennessee Volunteers,Kentucky Wildcats,,,
+af8c5b12c90eb7ec8876cadcd395ff67,americanfootball_ncaaf,NCAAF,2024-11-03T00:00:00Z,False,Baylor Bears,TCU Horned Frogs,,,
+b11f11222f197a7d1eb42d38d74b71fc,americanfootball_ncaaf,NCAAF,2024-11-03T00:00:00Z,False,Nevada Wolf Pack,Colorado State Rams,,,
+a3167c54e867a6a348e52cb4ba17fe9b,americanfootball_ncaaf,NCAAF,2024-11-03T00:00:00Z,False,SMU Mustangs,Pittsburgh Panthers,,,
+9a3a036f97a21646baa5d49a8c80c15d,americanfootball_ncaaf,NCAAF,2024-11-06T00:30:00Z,False,Central Michigan Chippewas,Bowling Green Falcons,,,
+16c9909c72ff4fb48207cad2a0e93284,americanfootball_ncaaf,NCAAF,2024-11-06T01:00:00Z,False,Ball State Cardinals,Miami (OH) RedHawks,,,
+524d728fe39116685daedf3f5d571c8c,americanfootball_ncaaf,NCAAF,2024-11-07T00:00:00Z,False,Kent State Golden Flashes,Ohio Bobcats,,,
+906047b9e20b678bec7010f078b5402e,americanfootball_ncaaf,NCAAF,2024-11-07T00:00:00Z,False,Western Michigan Broncos,Northern Illinois Huskies,,,
+0266af62b06ad01694cce6ea408f06b5,americanfootball_ncaaf,NCAAF,2024-11-09T01:00:00Z,False,Wake Forest Demon Deacons,California Golden Bears,,,
+3a1acc7a2493a0d1c037a93b0141519e,americanfootball_ncaaf,NCAAF,2024-11-09T02:00:00Z,False,UCLA Bruins,Iowa Hawkeyes,,,
+5718743e438500e5592159152c2a11c9,americanfootball_ncaaf,NCAAF,2024-11-09T17:00:00Z,False,Cincinnati Bearcats,West Virginia Mountaineers,,,
+bacc5ec5be557c0b04bea2350447eb2a,americanfootball_ncaaf,NCAAF,2024-11-09T17:00:00Z,False,Virginia Tech Hokies,Clemson Tigers,,,
+9d6edcd4f87545c5a5d045202ceaa3ce,americanfootball_ncaaf,NCAAF,2024-11-09T17:00:00Z,False,Texas Tech Red Raiders,Colorado Buffaloes,,,
+32670f2ec15ffb0b50edac971500d1b0,americanfootball_ncaaf,NCAAF,2024-11-09T17:00:00Z,False,Texas Longhorns,Florida Gators,,,
+17e6f9d3d83834e6791888ace6a10b90,americanfootball_ncaaf,NCAAF,2024-11-09T17:00:00Z,False,Indiana Hoosiers,Michigan Wolverines,,,
+92ef7f8b2d1f7530e38cd030d071f528,americanfootball_ncaaf,NCAAF,2024-11-09T17:00:00Z,False,Kansas Jayhawks,Iowa State Cyclones,,,
+49d82dc1745f969d220953d5037ea144,americanfootball_ncaaf,NCAAF,2024-11-09T17:00:00Z,False,Oregon State Beavers,San Jose State Spartans,,,
+0f68c4c7ce9aa1d52b194b80ad06f9b7,americanfootball_ncaaf,NCAAF,2024-11-09T17:00:00Z,False,Penn State Nittany Lions,Washington Huskies,,,
+9ac117a8a788ffc841c83b78fcc211a4,americanfootball_ncaaf,NCAAF,2024-11-09T17:00:00Z,False,Washington State Cougars,Utah State Aggies,,,
+98b1e9e3344e4fab2142f7579cd8229e,americanfootball_ncaaf,NCAAF,2024-11-09T19:30:00Z,False,Ole Miss Rebels,Georgia Bulldogs,,,
+720fec0445ed28753839e78d89f75a95,americanfootball_ncaaf,NCAAF,2024-11-09T21:15:00Z,False,Vanderbilt Commodores,South Carolina Gamecocks,,,
+5ec11b006e7d7e919cb63aa1f4a5ffaa,americanfootball_ncaaf,NCAAF,2024-11-10T00:00:00Z,False,LSU Tigers,Alabama Crimson Tide,,,
+57f7450009aab1d55edbf8e73f1d14ad,americanfootball_ncaaf,NCAAF,2024-11-10T00:30:00Z,False,Notre Dame Fighting Irish,Florida State Seminoles,,,
+86ea6cb24276e8a779b37c3990149612,americanfootball_ncaaf,NCAAF,2024-11-10T03:15:00Z,False,Utah Utes,BYU Cougars,,,
+b7bbe548bf6d5efb53b2a65c8747c767,americanfootball_ncaaf,NCAAF,2024-11-16T20:30:00Z,False,Georgia Bulldogs,Tennessee Volunteers,,,
+a52122e33aa8168d2bc17f49266ffcc3,americanfootball_ncaaf,NCAAF,2024-11-23T18:00:00Z,False,Ohio State Buckeyes,Indiana Hoosiers,,,
+27a8846b7b9d56b5360098f7ba184cf0,americanfootball_ncaaf,NCAAF,2024-11-30T17:00:00Z,False,Ohio State Buckeyes,Michigan Wolverines,,,
+f39617a38ed48d22900c408eee870eb7,americanfootball_ncaaf,NCAAF,2024-11-30T20:30:00Z,False,Texas A&M Aggies,Texas Longhorns,,,
+86278ec4bbdcadd945d79df6c695c2ec,americanfootball_nfl,NFL,2024-10-29T00:15:00Z,True,Pittsburgh Steelers,New York Giants,26.0,18.0,2024-10-29T08:54:29Z
+edde9aeb8a9114f38b30b45c7cffbfa8,americanfootball_nfl,NFL,2024-11-01T00:15:00Z,False,New York Jets,Houston Texans,,,
+db18946165af62532b19d4c509d7ba56,americanfootball_nfl,NFL,2024-11-03T18:00:00Z,False,Atlanta Falcons,Dallas Cowboys,,,
+11154d508a0b557087b0fa84cccf8a66,americanfootball_nfl,NFL,2024-11-03T18:00:00Z,False,Baltimore Ravens,Denver Broncos,,,
+7c2d09c53f3c271b20f53db0b21f1498,americanfootball_nfl,NFL,2024-11-03T18:00:00Z,False,Buffalo Bills,Miami Dolphins,,,
+3de2d54334c462aa393418b75994fee1,americanfootball_nfl,NFL,2024-11-03T18:00:00Z,False,Carolina Panthers,New Orleans Saints,,,
+3d24ae93125568c136d57ff911a4d2e4,americanfootball_nfl,NFL,2024-11-03T18:00:00Z,False,Cincinnati Bengals,Las Vegas Raiders,,,
+fc022a0b74f3182e2da491dfe4276301,americanfootball_nfl,NFL,2024-11-03T18:00:00Z,False,Cleveland Browns,Los Angeles Chargers,,,
+31f1bb5fbbc8c3d9b8719357fa40941e,americanfootball_nfl,NFL,2024-11-03T18:00:00Z,False,Tennessee Titans,New England Patriots,,,
+5791e31f6f4b95476889c4854b508faf,americanfootball_nfl,NFL,2024-11-03T18:00:00Z,False,New York Giants,Washington Commanders,,,
+597e7fb5542c56bda7f1a73402cd47e0,americanfootball_nfl,NFL,2024-11-03T21:05:00Z,False,Arizona Cardinals,Chicago Bears,,,
+ef026bf62bfb6cda42ee983680eda2d4,americanfootball_nfl,NFL,2024-11-03T21:05:00Z,False,Philadelphia Eagles,Jacksonville Jaguars,,,
+84d2187ad0c2a42b32879d3bcbaee8dd,americanfootball_nfl,NFL,2024-11-03T21:25:00Z,False,Green Bay Packers,Detroit Lions,,,
+8baadfa082af81fe72b1cfd941d96edf,americanfootball_nfl,NFL,2024-11-03T21:25:00Z,False,Seattle Seahawks,Los Angeles Rams,,,
+d555bf749139691c613e4aec350592c1,americanfootball_nfl,NFL,2024-11-04T01:20:00Z,False,Minnesota Vikings,Indianapolis Colts,,,
+8f751d18969af50ec341e0b282e5b4d6,americanfootball_nfl,NFL,2024-11-05T01:15:00Z,False,Kansas City Chiefs,Tampa Bay Buccaneers,,,
+89f860b80a0c5b61375d4aa49d9ec853,americanfootball_nfl,NFL,2024-11-08T01:15:00Z,False,Baltimore Ravens,Cincinnati Bengals,,,
+9016850451d9e4190ec1bd178dac4849,americanfootball_nfl,NFL,2024-11-10T14:30:00Z,False,Carolina Panthers,New York Giants,,,
+a6383a73f7e6937fcdc376b50d4dc510,americanfootball_nfl,NFL,2024-11-10T18:00:00Z,False,New Orleans Saints,Atlanta Falcons,,,
+80899c1a82df27832eff9206d9c2ab1b,americanfootball_nfl,NFL,2024-11-10T18:00:00Z,False,Indianapolis Colts,Buffalo Bills,,,
+c885c70be6b073f94096eb0db2a27c3c,americanfootball_nfl,NFL,2024-11-10T18:00:00Z,False,Chicago Bears,New England Patriots,,,
+d4901034c9f4ee931bc6971a4b089209,americanfootball_nfl,NFL,2024-11-10T18:00:00Z,False,Kansas City Chiefs,Denver Broncos,,,
+a59741270a5f21dfb288838acf98537b,americanfootball_nfl,NFL,2024-11-10T18:00:00Z,False,Jacksonville Jaguars,Minnesota Vikings,,,
+928f8f873c2bf276d0b2a63a8f8941b4,americanfootball_nfl,NFL,2024-11-10T18:00:00Z,False,Washington Commanders,Pittsburgh Steelers,,,
+853cc3b59ffe65a55a55d799789bc726,americanfootball_nfl,NFL,2024-11-10T18:00:00Z,False,Tampa Bay Buccaneers,San Francisco 49ers,,,
+6214d50d3a5b442078f670ff8e08945e,americanfootball_nfl,NFL,2024-11-10T21:05:00Z,False,Los Angeles Chargers,Tennessee Titans,,,
+1c2195dfc898e85136f4d40b4ac512fb,americanfootball_nfl,NFL,2024-11-10T21:25:00Z,False,Arizona Cardinals,New York Jets,,,
+776c336fae7523f356cb0cd4a32ba356,americanfootball_nfl,NFL,2024-11-10T21:25:00Z,False,Dallas Cowboys,Philadelphia Eagles,,,
+e27b5c11ba461a77a8e7773b2ea30238,americanfootball_nfl,NFL,2024-11-11T01:20:00Z,False,Houston Texans,Detroit Lions,,,
+d6eab9011bd146fdbb2639f6e8c07056,americanfootball_nfl,NFL,2024-11-12T01:20:00Z,False,Los Angeles Rams,Miami Dolphins,,,
+0ff9023455373ecbfb0dd3fb87b15251,baseball_mlb,MLB,2024-10-29T00:13:00Z,True,New York Yankees,Los Angeles Dodgers,2.0,4.0,2024-10-30T00:03:32Z
+6cf31b21fd040a6dc2e8f132ebf358cb,baseball_mlb,MLB,2024-10-30T00:08:53Z,True,New York Yankees,Los Angeles Dodgers,11.0,4.0,2024-10-31T00:03:32Z
+7365df8325d50b0955045bba4fc9e0d9,baseball_mlb,MLB,2024-10-31T00:09:45Z,True,New York Yankees,Los Angeles Dodgers,6.0,7.0,2024-10-31T09:23:43Z
+afbdf758c85a15cc869323ec93480b5d,basketball_nba,NBA,2024-10-28T23:10:41Z,True,Orlando Magic,Indiana Pacers,119.0,115.0,2024-10-29T09:59:55Z
+56f6aed143df37149b0a9d7802322276,basketball_nba,NBA,2024-10-28T23:40:00Z,True,Atlanta Hawks,Washington Wizards,119.0,121.0,2024-10-29T09:59:55Z
+91073994cd05f4738b880e0d07a3e270,basketball_nba,NBA,2024-10-28T23:40:00Z,True,Toronto Raptors,Denver Nuggets,125.0,127.0,2024-10-29T09:59:55Z
+7ffca5e7b2cac47cf2958f98f4b13e2e,basketball_nba,NBA,2024-10-28T23:40:00Z,True,Miami Heat,Detroit Pistons,106.0,98.0,2024-10-29T09:59:55Z
+9127a905bc028e42d027e15c225d310f,basketball_nba,NBA,2024-10-28T23:40:41Z,True,Boston Celtics,Milwaukee Bucks,119.0,108.0,2024-10-29T09:59:55Z
+cb47726dd9940fa88bf3d2f24a0794ce,basketball_nba,NBA,2024-10-28T23:41:24Z,True,New York Knicks,Cleveland Cavaliers,104.0,110.0,2024-10-29T09:59:55Z
+79230185cd438af68ea49c6d68f5f91b,basketball_nba,NBA,2024-10-29T00:10:00Z,True,Memphis Grizzlies,Chicago Bulls,123.0,126.0,2024-10-29T09:59:55Z
+a06a25ca228baede0d7fba2e86118c9f,basketball_nba,NBA,2024-10-29T00:10:00Z,True,San Antonio Spurs,Houston Rockets,101.0,106.0,2024-10-29T09:59:55Z
+803eb6e3fb8e7139f9471dcb29a6693b,basketball_nba,NBA,2024-10-29T00:40:00Z,True,Dallas Mavericks,Utah Jazz,110.0,102.0,2024-10-29T09:59:55Z
+b06bb50b14ed2f9b40418a1d2dd209d4,basketball_nba,NBA,2024-10-29T02:10:00Z,True,Phoenix Suns,Los Angeles Lakers,109.0,105.0,2024-10-29T09:59:55Z
+197c28e2d655a7b5f33f005ffa99d233,basketball_nba,NBA,2024-10-29T02:10:24Z,True,Sacramento Kings,Portland Trail Blazers,111.0,98.0,2024-10-29T09:59:55Z
+15893327c28d5d11f74b1b9a0560aa78,basketball_nba,NBA,2024-10-29T23:30:00Z,True,Minnesota Timberwolves,Dallas Mavericks,114.0,120.0,2024-10-30T09:51:25Z
+351ec2a958a204ecb22489330d658ce6,basketball_nba,NBA,2024-10-29T23:40:00Z,True,Brooklyn Nets,Denver Nuggets,139.0,144.0,2024-10-30T09:51:25Z
+64b97e005d46756473c62e9fe2fe9363,basketball_nba,NBA,2024-10-30T01:10:00Z,True,Utah Jazz,Sacramento Kings,96.0,113.0,2024-10-30T09:51:25Z
+7e53379b83a207f929bf35d6f4a0e5c3,basketball_nba,NBA,2024-10-30T02:00:00Z,True,Golden State Warriors,New Orleans Pelicans,124.0,106.0,2024-10-30T09:51:25Z
+9fadc26265b153d0280dd8382d9c5ac5,basketball_nba,NBA,2024-10-30T23:10:00Z,True,Washington Wizards,Atlanta Hawks,133.0,120.0,2024-10-31T09:58:29Z
+a3c6e5d32e56f40a45b595b4cf999e79,basketball_nba,NBA,2024-10-30T23:11:00Z,True,Philadelphia 76ers,Detroit Pistons,95.0,105.0,2024-10-31T09:58:29Z
+3366cac8007c5e968fa480aa6ce14408,basketball_nba,NBA,2024-10-30T23:11:28Z,True,Cleveland Cavaliers,Los Angeles Lakers,134.0,110.0,2024-10-31T09:58:29Z
+0e47e2449a96f6b0ad731135660f3871,basketball_nba,NBA,2024-10-30T23:11:51Z,True,Charlotte Hornets,Toronto Raptors,138.0,133.0,2024-10-31T09:58:29Z
+cde552586229236873e3698b720babd8,basketball_nba,NBA,2024-10-30T23:13:00Z,True,Indiana Pacers,Boston Celtics,135.0,132.0,2024-10-31T09:58:29Z
+18029e934db1e5370d8acabb33c17e0f,basketball_nba,NBA,2024-10-30T23:42:18Z,True,Miami Heat,New York Knicks,107.0,116.0,2024-10-31T09:58:29Z
+53ae735ffa24e569c3893b37c067e232,basketball_nba,NBA,2024-10-31T00:10:00Z,True,Chicago Bulls,Orlando Magic,102.0,99.0,2024-10-31T09:58:29Z
+4849304d19eb215b0d30f83f7ee7aa28,basketball_nba,NBA,2024-10-31T00:11:00Z,True,Memphis Grizzlies,Brooklyn Nets,106.0,119.0,2024-10-31T09:58:29Z
+7555c1b4ee9fafda7ef05850a0753425,basketball_nba,NBA,2024-10-31T01:43:00Z,True,Oklahoma City Thunder,San Antonio Spurs,105.0,93.0,2024-10-31T09:58:29Z
+9b89376475f9e0121ebac0b7a1dac95b,basketball_nba,NBA,2024-10-31T02:10:00Z,True,Golden State Warriors,New Orleans Pelicans,104.0,89.0,2024-10-31T09:58:29Z
+902fc430d7ad80e0f78ca62198993956,basketball_nba,NBA,2024-10-31T02:40:34Z,True,Los Angeles Clippers,Portland Trail Blazers,105.0,106.0,2024-10-31T09:58:29Z
+189d69ff1460fe7810e1f523220f2a4c,basketball_nba,NBA,2024-11-01T00:10:00Z,False,Memphis Grizzlies,Milwaukee Bucks,,,
+23e16aad02fd623a17b1a24c28846a36,basketball_nba,NBA,2024-11-01T00:40:00Z,False,Dallas Mavericks,Houston Rockets,,,
+e3a74199e6cc3f0ad1099045b5c8cce7,basketball_nba,NBA,2024-11-01T01:10:00Z,False,Utah Jazz,San Antonio Spurs,,,
+508b10d9c88192aa51f65527745b05ea,basketball_nba,NBA,2024-11-01T02:40:00Z,False,Los Angeles Clippers,Phoenix Suns,,,
+74058cb479045efa21ebd5c57050e23e,basketball_nba,NBA,2024-11-13T00:00:00Z,False,Boston Celtics,Atlanta Hawks,,,
+ff0b160b9779ae75b9f7d05511270837,basketball_nba,NBA,2024-11-13T00:00:00Z,False,Orlando Magic,Charlotte Hornets,,,
+e80e0c514aa69872360f58b079796a8b,basketball_nba,NBA,2024-11-13T00:00:00Z,False,Detroit Pistons,Miami Heat,,,
+2d650fff73dcc627c1c0de3a4694e9fc,basketball_nba,NBA,2024-11-13T00:30:00Z,False,Philadelphia 76ers,New York Knicks,,,
+30e4d7fc5396e7b0b8be16b278c123fe,basketball_nba,NBA,2024-11-13T01:00:00Z,False,Milwaukee Bucks,Toronto Raptors,,,
+4a86e15d2c8c52972524be69d15941cc,basketball_nba,NBA,2024-11-13T02:00:00Z,False,Portland Trail Blazers,Minnesota Timberwolves,,,
+6050b0be3ce7b57b77ef6695b9cecaa1,basketball_nba,NBA,2024-11-13T02:00:00Z,False,Utah Jazz,Phoenix Suns,,,
+f0bfcb563a5de00b392bda6960db1796,basketball_nba,NBA,2024-11-13T03:00:00Z,False,Golden State Warriors,Dallas Mavericks,,,
+973a6ea86af7d9e2bf4c52509822f5bf,basketball_nba,NBA,2024-12-25T17:00:00Z,False,New York Knicks,San Antonio Spurs,,,
+07a07eaa8f786d68cb371107f36f5b33,basketball_nba,NBA,2024-12-25T19:30:00Z,False,Dallas Mavericks,Minnesota Timberwolves,,,
+6f66bc2154fb45b2047e1c1c5afcdc38,basketball_nba,NBA,2024-12-25T22:00:00Z,False,Boston Celtics,Philadelphia 76ers,,,
+bc6f994bad539db5054c8b750c437fb8,basketball_nba,NBA,2024-12-26T01:00:00Z,False,Golden State Warriors,Los Angeles Lakers,,,
+22a9b650e64ca15cb0c83dc0148a571e,basketball_nba,NBA,2024-12-26T03:30:00Z,False,Phoenix Suns,Denver Nuggets,,,
+ed71b37f27daa755c7dd8623fbe5c54e,icehockey_nhl,NHL,2024-10-28T23:08:00Z,True,Buffalo Sabres,Florida Panthers,2.0,5.0,2024-10-29T22:55:31Z
+0d1eb136acea923fb456fd274bb6e1f5,icehockey_nhl,NHL,2024-10-28T23:08:00Z,True,Columbus Blue Jackets,Edmonton Oilers,6.0,1.0,2024-10-29T22:55:31Z
+9ecd006689ad309e8f76f2fde09bbff0,icehockey_nhl,NHL,2024-10-28T23:39:00Z,True,Tampa Bay Lightning,Nashville Predators,3.0,2.0,2024-10-29T22:55:31Z
+ec44b733ed316a8283b2ea7b1b297b23,icehockey_nhl,NHL,2024-10-28T23:45:00Z,True,Winnipeg Jets,Toronto Maple Leafs,4.0,6.0,2024-10-29T22:55:31Z
+a35549327d647a86aaca34a442365508,icehockey_nhl,NHL,2024-10-29T01:08:00Z,True,Colorado Avalanche,Chicago Blackhawks,2.0,5.0,2024-10-29T22:55:31Z
+9d9aa12d99aa96c3ad343bc6ec85d83a,icehockey_nhl,NHL,2024-10-29T01:08:30Z,True,Utah Hockey Club,San Jose Sharks,4.0,5.0,2024-10-29T22:55:31Z
+a1b4bc31fd1eb11ba3757bf96c367baa,icehockey_nhl,NHL,2024-10-29T02:08:17Z,True,Vancouver Canucks,Carolina Hurricanes,3.0,4.0,2024-10-29T22:55:31Z
+54d44558b1fdcec80d6217f687bd4099,icehockey_nhl,NHL,2024-10-29T02:09:04Z,True,Vegas Golden Knights,Calgary Flames,5.0,0.0,2024-10-29T22:55:31Z
+3297a7cb75ea8a0cd27c68ce0a7ef3bd,icehockey_nhl,NHL,2024-10-29T23:08:00Z,True,New York Islanders,Anaheim Ducks,1.0,3.0,2024-10-30T22:55:30Z
+7620a018b2c1625b82ed83078d422e74,icehockey_nhl,NHL,2024-10-29T23:08:00Z,True,Pittsburgh Penguins,Minnesota Wild,3.0,5.0,2024-10-30T22:55:30Z
+f7083fa8038a83266b8b69f3cc4822aa,icehockey_nhl,NHL,2024-10-29T23:08:00Z,True,Montréal Canadiens,Seattle Kraken,2.0,8.0,2024-10-30T22:55:30Z
+bee37681a266d59f7455f7a4fc9a1a9b,icehockey_nhl,NHL,2024-10-29T23:10:00Z,True,Boston Bruins,Philadelphia Flyers,0.0,2.0,2024-10-30T22:55:30Z
+5ad326ab68964c46cbef546fb8e55e18,icehockey_nhl,NHL,2024-10-29T23:34:00Z,True,Ottawa Senators,St Louis Blues,8.0,1.0,2024-10-30T22:55:30Z
+72e83dbf49cee39336def3ced19490bc,icehockey_nhl,NHL,2024-10-29T23:38:00Z,True,Washington Capitals,New York Rangers,5.0,3.0,2024-10-30T22:55:30Z
+b53f130dfecfa7138241f85360af55a3,icehockey_nhl,NHL,2024-10-30T02:20:00Z,True,San Jose Sharks,Los Angeles Kings,4.0,2.0,2024-10-30T22:55:30Z
+cd732af52a4c55b1a1c53806fad68578,icehockey_nhl,NHL,2024-10-30T23:08:00Z,True,Columbus Blue Jackets,New York Islanders,2.0,0.0,2024-10-31T10:28:48Z
+899d0dc22dbac52e33200a1323d9dc06,icehockey_nhl,NHL,2024-10-30T23:43:00Z,True,Detroit Red Wings,Winnipeg Jets,2.0,6.0,2024-10-31T10:28:48Z
+2873be82511820fb5e0a303c5a6f7222,icehockey_nhl,NHL,2024-10-31T01:08:00Z,True,Colorado Avalanche,Tampa Bay Lightning,2.0,5.0,2024-10-31T10:28:48Z
+e0d502c75388fb82fb7ed85d80b8f01e,icehockey_nhl,NHL,2024-10-31T01:39:00Z,True,Utah Hockey Club,Calgary Flames,5.0,1.0,2024-10-31T10:28:48Z
+97563bcac7a0ea96e48a5f4ff4311ff9,icehockey_nhl,NHL,2024-10-31T02:07:00Z,True,Los Angeles Kings,Vegas Golden Knights,6.0,3.0,2024-10-31T10:28:48Z
+d23b2bec6ff965d4638f2ff7307e9b99,icehockey_nhl,NHL,2024-10-31T02:40:00Z,True,Vancouver Canucks,New Jersey Devils,0.0,6.0,2024-10-31T10:28:48Z
+fe044d4b2228d62f28f0a0be82684e3b,icehockey_nhl,NHL,2024-10-31T23:00:00Z,False,Pittsburgh Penguins,Anaheim Ducks,,,
+fe1c2fa4903b8f99d355628443cff605,icehockey_nhl,NHL,2024-10-31T23:00:00Z,False,Carolina Hurricanes,Boston Bruins,,,
+926fb1a0d10021e66dec1585e280204d,icehockey_nhl,NHL,2024-10-31T23:00:00Z,False,Washington Capitals,Montréal Canadiens,,,
+143b34bca051f9ec2579b3d895f89ff1,icehockey_nhl,NHL,2024-10-31T23:00:00Z,False,Philadelphia Flyers,St Louis Blues,,,
+b609b2ea2fae8c239ee0668d3e321172,icehockey_nhl,NHL,2024-10-31T23:00:00Z,False,Toronto Maple Leafs,Seattle Kraken,,,
+f4b9a944bd539daf2181b34c0bda8833,icehockey_nhl,NHL,2024-11-01T00:00:00Z,False,Nashville Predators,Edmonton Oilers,,,
+f3e84e2691457fe95f0bd61309438b8c,icehockey_nhl,NHL,2024-11-01T02:30:00Z,False,San Jose Sharks,Chicago Blackhawks,,,
+614d0746f6c0429463aef1ffeb50063a,icehockey_nhl,NHL,2024-11-01T18:10:00Z,False,Dallas Stars,Florida Panthers,,,
+e2fd578a70b9d63d84eac284c70ac8a1,icehockey_nhl,NHL,2024-11-01T23:00:00Z,False,Buffalo Sabres,New York Islanders,,,
+d2e04b2771dc0196eaf4ca53300d4960,icehockey_nhl,NHL,2024-11-01T23:00:00Z,False,Columbus Blue Jackets,Winnipeg Jets,,,
+2a25c1a7df63aee84fa85fa408146382,icehockey_nhl,NHL,2024-11-01T23:00:00Z,False,New York Rangers,Ottawa Senators,,,
+9f36be82c26eb0e56ef46b4c30152438,icehockey_nhl,NHL,2024-11-02T00:00:00Z,False,Minnesota Wild,Tampa Bay Lightning,,,
+6c291d555c0c1bfa9c5d1677a14b7043,icehockey_nhl,NHL,2024-11-02T01:00:00Z,False,Calgary Flames,New Jersey Devils,,,
+c20656651d018bea59ab3e27fed25e13,soccer_argentina_primera_division,Primera División - Argentina,2024-10-28T22:03:00Z,True,Gimnasia La Plata,Union Santa Fe,2.0,3.0,2024-10-29T07:00:47Z
+bdf6d78f2f58504d3e7d0756bc3f9bbb,soccer_argentina_primera_division,Primera División - Argentina,2024-10-28T23:59:00Z,True,Atlético Huracán,Central Córdoba,0.0,0.0,2024-10-29T07:27:07Z
+849cdaab23f5c6116a3531b65d0bb90c,soccer_argentina_primera_division,Primera División - Argentina,2024-10-31T22:00:00Z,False,Estudiantes,Independiente Rivadavia,,,
+2e66b553bc451b1218f2e637d11c27e9,soccer_argentina_primera_division,Primera División - Argentina,2024-10-31T22:00:00Z,False,Sarmiento de Junin,Independiente,,,
+80923d196a82a1b8731349adb6c396ce,soccer_argentina_primera_division,Primera División - Argentina,2024-11-01T00:15:00Z,False,Godoy Cruz,Atlético Tucuman,,,
+cb7ea3d3d283cca03cfd9336b2c44b52,soccer_argentina_primera_division,Primera División - Argentina,2024-11-01T00:15:00Z,False,Rosario Central,Barracas Central,,,
+befb0011c171c92ec97b0a8fd772c544,soccer_argentina_primera_division,Primera División - Argentina,2024-11-01T22:00:00Z,False,Central Córdoba,San Lorenzo,,,
+fe4daa1c344266e2a8ece35321d8e1b4,soccer_argentina_primera_division,Primera División - Argentina,2024-11-01T22:45:00Z,False,Atlético Huracán,Gimnasia La Plata,,,
+a3c3ca12fbd03bb3fa67d2e2a155ea0b,soccer_argentina_primera_division,Primera División - Argentina,2024-11-02T00:15:00Z,False,Union Santa Fe,Newells Old Boys,,,
+c8c470c8bbea8d0f721d49c98116aeea,soccer_argentina_primera_division,Primera División - Argentina,2024-11-02T01:00:00Z,False,Argentinos Juniors,Velez Sarsfield BA,,,
+703326b847507a99109f9e3382bc2594,soccer_argentina_primera_division,Primera División - Argentina,2024-11-02T18:00:00Z,False,Deportivo Riestra,Talleres,,,
+464d06e97dedc28bdec7b92a52c1066e,soccer_argentina_primera_division,Primera División - Argentina,2024-11-02T21:00:00Z,False,River Plate,Banfield,,,
+d160d263ea51d9383e7904c7e206ba37,soccer_argentina_primera_division,Primera División - Argentina,2024-11-02T23:00:00Z,False,Belgrano de Cordoba,Defensa y Justicia,,,
+1f8de43f54484808e59e8ede07119cba,soccer_argentina_primera_division,Primera División - Argentina,2024-11-03T18:30:00Z,False,CA Tigre BA,Platense,,,
+8228651350667762f71563f110cd5945,soccer_argentina_primera_division,Primera División - Argentina,2024-11-03T20:30:00Z,False,Racing Club,Instituto de Córdoba,,,
+4ac3c987118b4c441a67a40a51c02e2e,soccer_argentina_primera_division,Primera División - Argentina,2024-11-03T22:30:00Z,False,Lanus,Boca Juniors,,,
+f5f142548bda403d68eecbb611f48278,soccer_argentina_primera_division,Primera División - Argentina,2024-11-04T22:00:00Z,False,Atlético Tucuman,Sarmiento de Junin,,,
+09e6d994f7b5b141863f661073fe46eb,soccer_argentina_primera_division,Primera División - Argentina,2024-11-05T00:00:00Z,False,Independiente Rivadavia,Rosario Central,,,
+37bec93f145e6b108698b07122947eb3,soccer_argentina_primera_division,Primera División - Argentina,2024-11-05T21:45:00Z,False,Gimnasia La Plata,Central Córdoba,,,
+4271f2491bc443e2b9dea2efa77d9c76,soccer_argentina_primera_division,Primera División - Argentina,2024-11-05T21:45:00Z,False,San Lorenzo,Estudiantes,,,
+d01a8205dff1aa746763370a1405e60f,soccer_argentina_primera_division,Primera División - Argentina,2024-11-06T00:00:00Z,False,Newells Old Boys,Atlético Huracán,,,
+08e61287c68e37a7cef6798f1103f07b,soccer_argentina_primera_division,Primera División - Argentina,2024-11-06T00:00:00Z,False,Independiente,Union Santa Fe,,,
+65702ef0870ad16baccdfeb9fd2690ef,soccer_argentina_primera_division,Primera División - Argentina,2024-11-06T19:00:00Z,False,Barracas Central,Racing Club,,,
+f8ac29f5315187abdf9d265852593cff,soccer_argentina_primera_division,Primera División - Argentina,2024-11-06T20:00:00Z,False,Banfield,Belgrano de Cordoba,,,
+d2cb2a4cc6f69c6dd36ccc2a9b45b370,soccer_argentina_primera_division,Primera División - Argentina,2024-11-06T22:30:00Z,False,Boca Juniors,Godoy Cruz,,,
+96c94b8f94d732199ee8f6dd2f7089a1,soccer_argentina_primera_division,Primera División - Argentina,2024-11-07T00:30:00Z,False,Instituto de Córdoba,River Plate,,,
+6fc2da193429bbb3aea6fe173c2bd851,soccer_argentina_primera_division,Primera División - Argentina,2024-11-07T21:45:00Z,False,Talleres,Lanus,,,
+3ac934aded3ddfdcc60f4e9fe325bd01,soccer_argentina_primera_division,Primera División - Argentina,2024-11-07T22:00:00Z,False,Defensa y Justicia,Argentinos Juniors,,,
+b98021306b56bffdf83bb4151b524c4b,soccer_argentina_primera_division,Primera División - Argentina,2024-11-08T00:00:00Z,False,Platense,Deportivo Riestra,,,
+00d5b65b002360bde7bfe2d9ef0131ee,soccer_argentina_primera_division,Primera División - Argentina,2024-11-08T00:15:00Z,False,Velez Sarsfield BA,CA Tigre BA,,,
+3dc9abd0ccc84ebbe028dfe9de6eb86f,soccer_brazil_campeonato,Brazil Série A,2024-10-28T22:01:00Z,True,Cuiabá,Corinthians,0.0,1.0,2024-10-31T05:25:23Z
+8dd8006d51c4ff5c06fe957fd376fce6,soccer_brazil_campeonato,Brazil Série A,2024-10-29T00:02:00Z,True,Vasco da Gama,Bahia,3.0,2.0,2024-10-31T05:25:23Z
+337a2a5d13421b1854b39ee764c9ae5a,soccer_brazil_campeonato,Brazil Série A,2024-10-30T22:00:00Z,True,Internacional,Flamengo,1.0,1.0,2024-10-31T05:25:23Z
+b89d5148dd9c3d88b910a1c8bc724ea9,soccer_brazil_campeonato,Brazil Série A,2024-11-02T00:00:00Z,False,Fluminense,Grêmio,,,
+4311c30127a21c09fdb07e440d1caa6f,soccer_brazil_campeonato,Brazil Série A,2024-11-02T19:00:00Z,False,Bragantino-SP,Cuiabá,,,
+43739def9334c86f3583361a60d7f4b0,soccer_brazil_campeonato,Brazil Série A,2024-11-02T21:30:00Z,False,Atletico Paranaense,Vitoria,,,
+8c5169f0beaf7d3847a48b9031d850b2,soccer_brazil_campeonato,Brazil Série A,2024-11-02T21:30:00Z,False,Juventude,Fortaleza,,,
+1a72f290b5cc4676326c07d60c1ab97a,soccer_brazil_campeonato,Brazil Série A,2024-11-04T23:00:00Z,False,Corinthians,Palmeiras,,,
+144b947bbac4b6865b5956a8b31bcd3d,soccer_brazil_campeonato,Brazil Série A,2024-11-06T00:30:00Z,False,Bahia,Sao Paulo,,,
+0d746f5d2c4086d71d01c19a45ad8052,soccer_brazil_campeonato,Brazil Série A,2024-11-06T00:30:00Z,False,Botafogo,Vasco da Gama,,,
+23fcabcb09e273ec1631695aa3790c42,soccer_brazil_campeonato,Brazil Série A,2024-11-06T00:30:00Z,False,Internacional,Criciuma,,,
+61e4ad8fccc154cc1d01657884030cf6,soccer_brazil_campeonato,Brazil Série A,2024-11-07T00:00:00Z,False,Atletico Goianiense,Atletico Mineiro,,,
+6c0706d6f7771644c0bf42d5bc13f682,soccer_brazil_campeonato,Brazil Série A,2024-11-07T00:00:00Z,False,Cruzeiro,Flamengo,,,
+398cc2932ad4d2eef417dc7cb4ee3ff0,soccer_brazil_campeonato,Brazil Série A,2024-11-08T22:00:00Z,False,Internacional,Fluminense,,,
+6095c61da3fd79d2c709ab11073e76be,soccer_brazil_campeonato,Brazil Série A,2024-11-09T00:30:00Z,False,Palmeiras,Grêmio,,,
+5595a58dd5a64cb3684ea1d68cb2d13e,soccer_brazil_campeonato,Brazil Série A,2024-11-09T19:30:00Z,False,Botafogo,Cuiabá,,,
+4a567a3e06602a3a98db19c64bfbdfd6,soccer_brazil_campeonato,Brazil Série A,2024-11-09T19:30:00Z,False,Vitoria,Corinthians,,,
+7e5985bad0ec6261509cdca40296f4a9,soccer_brazil_campeonato,Brazil Série A,2024-11-09T22:00:00Z,False,Atletico Goianiense,Bragantino-SP,,,
+9a00088ffdbf0e8a8fbe59ab25153eab,soccer_brazil_campeonato,Brazil Série A,2024-11-09T22:00:00Z,False,Juventude,Bahia,,,
+3a54c44dfe5cd9acd0467488ea4ccf71,soccer_brazil_campeonato,Brazil Série A,2024-11-09T22:00:00Z,False,Cruzeiro,Criciuma,,,
+057239048ce6b0a50593c40d1d8fc764,soccer_brazil_campeonato,Brazil Série A,2024-11-09T22:00:00Z,False,Fortaleza,Vasco da Gama,,,
+0e4e58efa53349aa337ec564fc2d9a4d,soccer_brazil_campeonato,Brazil Série A,2024-11-10T00:00:00Z,False,Sao Paulo,Atletico Paranaense,,,
+8236c938130428f0fcdf7651f4112040,soccer_epl,EPL,2024-11-02T12:30:00Z,False,Newcastle United,Arsenal,,,
+42d364b23cebe611d8b2a4826d18c656,soccer_epl,EPL,2024-11-02T15:00:00Z,False,Bournemouth,Manchester City,,,
+30ca05711e870ca4a63c595c6bf48a31,soccer_epl,EPL,2024-11-02T15:00:00Z,False,Liverpool,Brighton and Hove Albion,,,
+eedffe4c584ccce0bffa0839c970e2ff,soccer_epl,EPL,2024-11-02T15:00:00Z,False,Southampton,Everton,,,
+cab69771b6a55464fb28a4988d195460,soccer_epl,EPL,2024-11-02T15:00:00Z,False,Ipswich Town,Leicester City,,,
+a76214c449878075c021fae3f6098cb7,soccer_epl,EPL,2024-11-02T15:00:00Z,False,Nottingham Forest,West Ham United,,,
+a82dbc3e753fc2917e493037abec0759,soccer_epl,EPL,2024-11-02T17:30:00Z,False,Wolverhampton Wanderers,Crystal Palace,,,
+d7d17a7b0d52d798dd86ac09d6833189,soccer_epl,EPL,2024-11-03T14:00:00Z,False,Tottenham Hotspur,Aston Villa,,,
+f4775f5074f79f71cbbddc74d64e9310,soccer_epl,EPL,2024-11-03T16:30:00Z,False,Manchester United,Chelsea,,,
+d88661598c60f48c270f324216c141c1,soccer_epl,EPL,2024-11-04T20:00:00Z,False,Fulham,Brentford,,,
+9e0c99af94ab830a4d5729388bd2398b,soccer_epl,EPL,2024-11-09T15:00:00Z,False,Brentford,Bournemouth,,,
+34d18475af0092cf26ea5b79931b0b76,soccer_epl,EPL,2024-11-09T15:00:00Z,False,Crystal Palace,Fulham,,,
+81bc91dc843f0d5c10d5430e55084a30,soccer_epl,EPL,2024-11-09T15:00:00Z,False,West Ham United,Everton,,,
+b635f72617dfb46951c5a580009a7155,soccer_epl,EPL,2024-11-09T15:00:00Z,False,Wolverhampton Wanderers,Southampton,,,
+bdf11c0fed7acde852f8c9971600caaa,soccer_epl,EPL,2024-11-09T17:30:00Z,False,Brighton and Hove Albion,Manchester City,,,
+79dc2babfbe037e8dd784c222582b471,soccer_epl,EPL,2024-11-09T20:00:00Z,False,Liverpool,Aston Villa,,,
+549097d6b12f2d6e2a02a10a3d30e4c2,soccer_epl,EPL,2024-11-10T14:00:00Z,False,Tottenham Hotspur,Ipswich Town,,,
+c82f0070fd6c6be3dd27daad787fe945,soccer_epl,EPL,2024-11-10T14:00:00Z,False,Manchester United,Leicester City,,,
+c523f2491a96d7d0784be90aac1d36d1,soccer_epl,EPL,2024-11-10T14:00:00Z,False,Nottingham Forest,Newcastle United,,,
+2c2dbd0a6bd84bab7a8e9b53c97bfeba,soccer_epl,EPL,2024-11-10T16:30:00Z,False,Chelsea,Arsenal,,,
+33f9761526a020beb8d9eae0fe9bf71b,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-01T19:30:00Z,False,Bayer Leverkusen,VfB Stuttgart,,,
+26b4de91ddb634570748902ffdefd8ab,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-02T14:30:00Z,False,Holstein Kiel,1. FC Heidenheim,,,
+7741c6613271b217b6975d0d02e31c59,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-02T14:30:00Z,False,VfL Wolfsburg,Augsburg,,,
+bc8a24e1838088834ae9219e6dc543b2,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-02T14:30:00Z,False,Bayern Munich,Union Berlin,,,
+3ef51228450ad995ea60125ed6e1cadb,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-02T14:30:00Z,False,Eintracht Frankfurt,VfL Bochum,,,
+354ba8dfcfd5401d0448a9466da38d61,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-02T14:30:00Z,False,TSG Hoffenheim,FC St. Pauli,,,
+c66608574ae3295e53d74f840eaf62fc,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-02T17:30:00Z,False,Borussia Dortmund,RB Leipzig,,,
+414ff0630d2d6e936c711a9ccc7e78ac,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-03T14:30:00Z,False,SC Freiburg,FSV Mainz 05,,,
+b8ff2341742352b058f70fa28c70d5cb,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-03T16:30:00Z,False,Borussia Monchengladbach,Werder Bremen,,,
+62bf1a9ecc11882cd444df0af7914c08,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-08T19:30:00Z,False,Union Berlin,SC Freiburg,,,
+1b14f6c7ee70d32ca66cd212707fa914,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-09T14:30:00Z,False,VfL Bochum,Bayer Leverkusen,,,
+81e6d02235d43bd1f9c369f7aae8a195,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-09T14:30:00Z,False,FC St. Pauli,Bayern Munich,,,
+7d2436836a5d91c75fedeef3e7cba476,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-09T14:30:00Z,False,FSV Mainz 05,Borussia Dortmund,,,
+fe39a2051b215498e7c7b6016401fe17,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-09T14:30:00Z,False,Werder Bremen,Holstein Kiel,,,
+3569285da848fd01ca3e24ca44d65855,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-09T17:30:00Z,False,RB Leipzig,Borussia Monchengladbach,,,
+84965bff19bed960e69f15abb2addafb,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-10T14:30:00Z,False,Augsburg,TSG Hoffenheim,,,
+55f17f9e0bbc0abe778e37278397635f,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-10T16:30:00Z,False,VfB Stuttgart,Eintracht Frankfurt,,,
+dfd22eec4b50cd56f094d6f25a579377,soccer_germany_bundesliga,Bundesliga - Germany,2024-11-10T18:30:00Z,False,1. FC Heidenheim,VfL Wolfsburg,,,
+550047acb2c84083ae01061471271763,soccer_mexico_ligamx,Liga MX,2024-11-02T01:00:00Z,False,Querétaro,FC Juárez,,,
+0070689358ff9320c54eb465cca376e3,soccer_mexico_ligamx,Liga MX,2024-11-02T03:00:00Z,False,Mazatlán FC,América,,,
+e4245e3ade7fd92bf1c6e60648a683da,soccer_mexico_ligamx,Liga MX,2024-11-02T03:05:00Z,False,Tijuana,Tigres,,,
+b2b64936b101e7f12be2e35d997550b3,soccer_mexico_ligamx,Liga MX,2024-11-02T23:00:00Z,False,Atlético San Luis,Puebla,,,
+efea2412303a464e7ac4f3eda2493259,soccer_mexico_ligamx,Liga MX,2024-11-02T23:00:00Z,False,Toluca,León,,,
+bff955e86ab017884c6e390f6b8dd128,soccer_mexico_ligamx,Liga MX,2024-11-03T01:05:00Z,False,Monterrey,Atlas,,,
+fd7572be10c1c538462b74eb5761a8a1,soccer_mexico_ligamx,Liga MX,2024-11-03T01:05:00Z,False,Guadalajara,Pumas,,,
+3df87691696b246ce8267d90c1e9e646,soccer_mexico_ligamx,Liga MX,2024-11-03T03:00:00Z,False,Pachuca,Necaxa,,,
+0d7e69c2890427a2451a1694c312b37b,soccer_mexico_ligamx,Liga MX,2024-11-03T03:10:00Z,False,Cruz Azul,Santos Laguna,,,
+5406bdb3646a43ab2a3496b6f426ef63,soccer_usa_mls,MLS,2024-10-28T22:55:00Z,True,FC Cincinnati,New York City FC,1,0,2024-10-30T08:08:38Z
+14e630794ca07aed6efa4a370f3e12c0,soccer_usa_mls,MLS,2024-10-29T01:00:00Z,True,Seattle Sounders FC,Houston Dynamo,0,0,2024-10-30T08:08:38Z
+2ee400e3fcb94bf2e28ac80937bd6080,soccer_usa_mls,MLS,2024-10-29T22:45:00Z,True,Columbus Crew SC,New York Red Bulls,0,1,2024-10-30T08:08:38Z
+b38e41eb1cefec838b666af9dbde8a97,soccer_usa_mls,MLS,2024-10-30T00:50:00Z,True,Real Salt Lake,Minnesota United FC,0,0,2024-10-30T08:08:38Z
+5f2e53ee2ba3f7c8b9382d138a44fed4,soccer_usa_mls,MLS,2024-11-01T23:30:00Z,False,Charlotte FC,Orlando City SC,,,
+15463c225d9c4cf5c1e0aedd28cf3572,soccer_usa_mls,MLS,2024-11-02T01:30:00Z,False,Colorado Rapids,LA Galaxy,,,
+7282424fcc67cee7052d26b392397120,soccer_usa_mls,MLS,2024-11-02T21:10:00Z,False,New York City FC,FC Cincinnati,,,
+5ef5e49a6813585a867387b94052973e,soccer_usa_mls,MLS,2024-11-02T23:00:00Z,False,Atlanta United FC,Inter Miami CF,,,
+5bf716cdfa622e3751237268320c801a,soccer_usa_mls,MLS,2024-11-03T01:10:00Z,False,Minnesota United FC,Real Salt Lake,,,
+fed0a5dd8225c4111b6fe6c8b8f42549,soccer_usa_mls,MLS,2024-11-03T21:40:00Z,False,New York Red Bulls,Columbus Crew SC,,,
+f45cdf5ed60bda9ad61f30e60c4b100e,soccer_usa_mls,MLS,2024-11-03T23:40:00Z,False,Houston Dynamo,Seattle Sounders FC,,,
+561ff595061b95a23d8a0d1d09211436,soccer_usa_mls,MLS,2024-11-04T01:55:00Z,False,Vancouver Whitecaps FC,Los Angeles FC,,,
